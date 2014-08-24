@@ -1,0 +1,1 @@
+/Users/jum/dotfiles/.bash_profile
