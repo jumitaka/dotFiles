@@ -39,3 +39,4 @@ cask install bartendar || true
 cask install clamxav || true
 cask install xquartz || true
 cask install java7 || true
+cask install mono-mdk || true
