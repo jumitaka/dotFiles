@@ -40,3 +40,5 @@ cask install clamxav || true
 cask install xquartz || true
 cask install java7 || true
 cask install mono-mdk || true
+cask insatll unity-web-player || true
+cask insatll unity3d || true
