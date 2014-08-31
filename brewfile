@@ -45,3 +45,4 @@ cask install mono-mdk || true
 cask insatll unity-web-player || true
 cask insatll unity3d || true
 cask install handbrake || true
+cask install paragon-ntfs || true
