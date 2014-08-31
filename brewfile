@@ -8,6 +8,8 @@ install curl || true
 install haskell-platform || true
 install node || true
 install tmux
+install wine || true
+install winetricks || true
 
 cask install dropbox || true
 cask install skype || true
@@ -42,3 +44,4 @@ cask install java7 || true
 cask install mono-mdk || true
 cask insatll unity-web-player || true
 cask insatll unity3d || true
+cask install handbrake || true
