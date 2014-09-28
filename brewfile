@@ -46,3 +46,7 @@ cask insatll unity-web-player || true
 cask insatll unity3d || true
 cask install handbrake || true
 cask install paragon-ntfs || true
+cask install xbox360-controller-driver || true
+cask install hyperswitch || true
+cask install mpv || true
+cask install bettertouchtool || true
