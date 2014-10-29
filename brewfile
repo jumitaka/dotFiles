@@ -1,5 +1,6 @@
 tap phinze/homebrew-cask || true
-tap homebrew/versions|| true
+tap homebrew/versions || true
+tap jumitaka/homebrew-cask || true
 
 install brew-cask || true
 install git || true
@@ -50,3 +51,8 @@ cask install xbox360-controller-driver || true
 cask install hyperswitch || true
 cask install mpv || true
 cask install bettertouchtool || true
+cask install quicklook-csv || true
+cask install qlstephen || true
+cask install qlmarkdown || true
+cask install quicklook-json || true
+cask install hetimaZip || true
