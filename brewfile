@@ -56,4 +56,5 @@ cask install qlstephen || true
 cask install qlmarkdown || true
 cask install quicklook-json || true
 cask install hetimaZip || true
+cask install teitoku || true
 cask install logbook-ex || true
